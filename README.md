@@ -7,6 +7,6 @@
 
 ### Stack
 
-python
+#### python
 
 beautifulsoup, konlpy, Word2Vec, Kmeans, PCA, t-sne, wordcloud
